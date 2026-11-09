@@ -1,45 +1,101 @@
-# R-Data-Analysis-Portfolio
-Livestock Genetics Data Simulation and PCA Analysis
+# R Data Analysis & Bioinformatics Portfolio
+Reneilwe Rose Mogano
+MSc Agricultural Science | Animal Science – Genetics & Genomics
 
-This project is part of my learning journey in R programming, data analysis, and biological sciences. It focuses on developing practical skills in handling data, performing statistical analysis, and applying multivariate techniques such as Principal Component Analysis (PCA).
+# About Me
 
-The work includes both a simulated livestock dataset and the well-known R built-in Iris dataset, allowing me to practice data analysis on both custom biological data and a standard reference dataset.
+I have an academic and research background in Animal Science, specialising in Genetics and Genomics. My interest in data analysis and bioinformatics developed through my postgraduate research, where I worked with genome-wide SNP data from South African indigenous village chickens.
 
-Datasets used
-1. Simulated Livestock Dataset
+During my MSc research, I used different analytical tools to investigate genetic diversity, population structure, effective population size and the relationship between genetic variation and environmental factors.
 
-A synthetic dataset was created to represent a livestock population. It includes traits such as:
+This experience introduced me to statistical programming, genomic data analysis, multivariate statistics and spatial modelling. It also motivated me to continue developing my computational and data analysis skills.
 
--> Breed type
--> Body weight
--> Milk production
--> Genotype score
--> SNP count
--> Health score
--> Farm region
+I created this portfolio to document my practical work, explore different analytical techniques and share projects that reflect my research background and ongoing technical development.
 
-This dataset was designed to mimic real-world animal science data for learning and practice purposes.
+# Research and Technical Experience
 
-2. Iris Dataset (R built-in dataset)
+During my postgraduate research, I personally used several analytical tools and methods to analyse genomic, environmental and geographic data.
 
-The Iris dataset was also used as a reference dataset for PCA and exploratory data analysis. It includes measurements of flower species and is widely used for statistical learning and visualization practice in R.
+R and RStudio: Statistical analysis, data exploration, data visualisation and multivariate analysis.
 
-What this project covers:
--> Data simulation and data handling in R
--> Data cleaning and preparation
--> Exploratory data analysis (EDA)
--> Principal Component Analysis (PCA)
--> Data visualization and interpretation
-Tools used
-R programming language
-tidyverse
-factoextra
-ggplot2
-corrplot
-Purpose of the project
+PLINK: SNP data quality control and calculation of observed and expected heterozygosity to assess genetic diversity.
 
-This project is mainly for learning and skill development. It helps me build confidence in working with data, strengthen my understanding of statistical methods, and improve my ability to apply R programming in biological and animal science contexts.
+SNeP: Estimation of historical and recent effective population size (Ne) using genome-wide SNP data.
 
-By including both a simulated livestock dataset and the Iris dataset, I was able to practice PCA and data analysis on different types of biological data structures.
+MaxEnt: Maximum entropy modelling to investigate ecological niches and predict potential geographic distributions.
 
-This project forms part of my growing portfolio in data science, animal science, and quantitative analysis.
+QGIS: Spatial data analysis, geographic visualisation and mapping.
+
+Redundancy Analysis (RDA): Exploring associations between genetic variation, environmental gradients and spatial variables.
+
+I also integrated MaxEnt modelling with spatial analysis to investigate geographic and environmental patterns relevant to indigenous livestock populations.
+
+# Practical Data Analysis Projects
+
+1. Livestock Genetics Data Analysis
+
+This project uses simulated livestock genetics data to practise statistical analysis and explore relationships between variables.
+
+I used R to perform exploratory data analysis, correlation analysis and Principal Component Analysis (PCA). I also created different visualisations to explore the dataset and interpret patterns in the data.
+
+Tools and methods:
+
+R and RStudio
+
+Data simulation and preparation
+
+Exploratory data analysis
+
+Principal Component Analysis (PCA)
+
+Correlation analysis
+
+Data visualisation using ggplot2
+
+2. Iris Dataset Analysis
+
+This is a practical R programming exercise using the Iris dataset. I worked with the dataset to explore its characteristics, practise statistical techniques and develop my understanding of data visualisation.
+
+Tools and methods:
+
+R and RStudio
+
+Data exploration
+
+Descriptive statistics
+
+Data visualisation
+
+# Academic Background
+
+Master of Science in Agricultural Science
+Specialisation: Animal Science – Genetics & Genomics
+Tshwane University of Technology
+
+My postgraduate research focused on genetic diversity, population structure and environmental adaptation in South African indigenous village chickens using genome-wide SNP data.
+
+Current Learning and Development
+
+I am continuing to strengthen my computational and analytical skills through practical exercises, training and independent learning.
+
+My current areas of development include:
+
+SQL and database fundamentals.
+
+Python programming.
+
+Linux command-line tools.
+
+Next-Generation Sequencing (NGS) data analysis.
+
+Bioinformatics workflows.
+
+Reproducible and computational data analysis.
+
+# About This Repository
+
+This repository is a work in progress. It brings together practical exercises, data analysis projects and examples of my technical skills.
+
+I will continue updating it as I work on new projects, improve existing analyses and gain experience with additional tools and methods.
+
+My aim is to build a portfolio that reflects my research background, practical analytical experience and continued development in data analysis, computational biology and bioinformatics.
